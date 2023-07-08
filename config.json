@@ -1,0 +1,86 @@
+{
+  "schedule": [
+    {
+      "day": 4,
+      "events": [
+        {
+          "hour": 17,
+          "minute": 55,
+          "source": "C:\\Users\\Usuario\\Scheduler\\Liberar\\C4\\breachingcharge.json",
+          "destination": "C:\\OmegaManager\\servers\\Wasteland\\profiles\\BreachingCharge"
+        },
+        {
+          "hour": 21,
+          "minute": 55,
+          "source": "C:\\Users\\Usuario\\Scheduler\\Bloquear\\C4\\breachingcharge.json",
+          "destination": "C:\\OmegaManager\\servers\\Wasteland\\profiles\\BreachingCharge"
+        },
+        {
+          "hour": 17,
+          "minute": 55,
+          "source": "C:\\Users\\Usuario\\Scheduler\\Liberar\\Codelock\\CodeLockConfig.json",
+          "destination": "C:\\OmegaManager\\servers\\Wasteland\\profiles\\CodeLock"
+        },
+        {
+          "hour": 21,
+          "minute": 55,
+          "source": "C:\\Users\\Usuario\\Scheduler\\Bloquear\\Codelock\\CodeLockConfig.json",
+          "destination": "C:\\OmegaManager\\servers\\Wasteland\\profiles\\CodeLock"
+        },
+        {
+          "hour": 17,
+          "minute": 55,
+          "source": "C:\\Users\\Usuario\\Scheduler\\Liberar\\Chat\\Chat.json",
+          "destination": "C:\\OmegaManager\\servers\\Wasteland\\profiles\\AC\\Settings"
+        },
+        {
+          "hour": 21,
+          "minute": 55,
+          "source": "C:\\Users\\Usuario\\Scheduler\\Bloquear\\Chat\\Chat.json",
+          "destination": "C:\\OmegaManager\\servers\\Wasteland\\profiles\\AC\\Settings"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "events": [
+        {
+          "hour": 17,
+          "minute": 55,
+          "source": "C:\\Users\\Usuario\\Scheduler\\Liberar\\C4\\breachingcharge.json",
+          "destination": "C:\\OmegaManager\\servers\\Wasteland\\profiles\\BreachingCharge"
+        },
+        {
+          "hour": 21,
+          "minute": 55,
+          "source": "C:\\Users\\Usuario\\Scheduler\\Bloquear\\C4\\breachingcharge.json",
+          "destination": "C:\\OmegaManager\\servers\\Wasteland\\profiles\\BreachingCharge"
+        },
+        {
+          "hour": 17,
+          "minute": 55,
+          "source": "C:\\Users\\Usuario\\Scheduler\\Liberar\\Codelock\\CodeLockConfig.json",
+          "destination": "C:\\OmegaManager\\servers\\Wasteland\\profiles\\CodeLock"
+        },
+        {
+          "hour": 21,
+          "minute": 55,
+          "source": "C:\\Users\\Usuario\\Scheduler\\Bloquear\\Codelock\\CodeLockConfig.json",
+          "destination": "C:\\OmegaManager\\servers\\Wasteland\\profiles\\CodeLock"
+        },
+        {
+          "hour": 17,
+          "minute": 55,
+          "source": "C:\\Users\\Usuario\\Scheduler\\Liberar\\Chat\\Chat.json",
+          "destination": "C:\\OmegaManager\\servers\\Wasteland\\profiles\\AC\\Settings"
+        },
+        {
+          "hour": 21,
+          "minute": 55,
+          "source": "C:\\Users\\Usuario\\Scheduler\\Bloquear\\Chat\\Chat.json",
+          "destination": "C:\\OmegaManager\\servers\\Wasteland\\profiles\\AC\\Settings"
+        }
+      ]
+    }
+  ]
+}
